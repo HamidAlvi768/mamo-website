@@ -577,11 +577,11 @@ Service Area
     </section> <!--==============================
 Team Area  
 ==============================-->
-    <section class="team-sec bg-white space-top overflow-hidden">
+<section class="team-sec bg-white space-top overflow-hidden">
         <div class="container z-index-common">
             <div class="title-area text-center">
                 <span class="sub-title text-anime-style-2">Team Members</span>
-                <h2 class="sec-title text-anime-style-3">islamic scholars</h2>
+                <h2 class="sec-title text-anime-style-3">Islamic Scholars</h2>
             </div>
             <div class="slider-area">
                 <div class="swiper th-slider has-shadow" id="teamSlider1" data-slider-options='{"loop":true,"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"3"},"1300":{"slidesPerView":"4"}}}'>
@@ -593,15 +593,9 @@ Team Area
                                     <img src="assets/img/team/team_1_1.jpg" alt="Team">
                                 </div>
                                 <div class="box-content">
-                                    <h3 class="box-title"><a href="scholar-details.php">Mohmmad jakaria</a></h3>
-                                    <span class="team-desig">Expert Scholar</span>
-                                    <div class="th-social">
-                                        <a target="_blank" href="https://facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                        <a target="_blank" href="https://instagram.com/"><i class="fab fa-instagram"></i></a>
-                                        <a target="_blank" href="https://linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                                    </div>
+                                    <h3 class="box-title"><a href="scholar-details.php">Dr. Maulana Habib-ur-Rehman</a></h3>
+                                    <span class="team-desig">Associate Professor & Islamic Scholar</span>
                                 </div>
-
                             </div>
                         </div>
 
@@ -612,15 +606,9 @@ Team Area
                                     <img src="assets/img/team/team_1_2.jpg" alt="Team">
                                 </div>
                                 <div class="box-content">
-                                    <h3 class="box-title"><a href="scholar-details.php">Mohmmad ali</a></h3>
-                                    <span class="team-desig">Expert Scholar</span>
-                                    <div class="th-social">
-                                        <a target="_blank" href="https://facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                        <a target="_blank" href="https://instagram.com/"><i class="fab fa-instagram"></i></a>
-                                        <a target="_blank" href="https://linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                                    </div>
+                                    <h3 class="box-title"><a href="scholar-details.php">Sheikh Maulana Abdul Rauf Muhammadi</a></h3>
+                                    <span class="team-desig">Religious Scholar & Media Trainer</span>
                                 </div>
-
                             </div>
                         </div>
 
@@ -631,15 +619,9 @@ Team Area
                                     <img src="assets/img/team/team_1_3.jpg" alt="Team">
                                 </div>
                                 <div class="box-content">
-                                    <h3 class="box-title"><a href="scholar-details.php">Mohmmad mohsin</a></h3>
-                                    <span class="team-desig">Expert Scholar</span>
-                                    <div class="th-social">
-                                        <a target="_blank" href="https://facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                        <a target="_blank" href="https://instagram.com/"><i class="fab fa-instagram"></i></a>
-                                        <a target="_blank" href="https://linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                                    </div>
+                                    <h3 class="box-title"><a href="scholar-details.php">Dr. Abu Bakker Muhammad Shereen</a></h3>
+                                    <span class="team-desig">Researcher & Educator in Islamic Studies</span>
                                 </div>
-
                             </div>
                         </div>
 
@@ -650,15 +632,9 @@ Team Area
                                     <img src="assets/img/team/team_1_4.jpg" alt="Team">
                                 </div>
                                 <div class="box-content">
-                                    <h3 class="box-title"><a href="scholar-details.php">moriyam ena</a></h3>
+                                    <h3 class="box-title"><a href="scholar-details.php">Moriyam Ena</a></h3>
                                     <span class="team-desig">Expert Scholar</span>
-                                    <div class="th-social">
-                                        <a target="_blank" href="https://facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                        <a target="_blank" href="https://instagram.com/"><i class="fab fa-instagram"></i></a>
-                                        <a target="_blank" href="https://linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                                    </div>
                                 </div>
-
                             </div>
                         </div>
 
@@ -669,15 +645,9 @@ Team Area
                                     <img src="assets/img/team/team_1_1.jpg" alt="Team">
                                 </div>
                                 <div class="box-content">
-                                    <h3 class="box-title"><a href="scholar-details.php">Mohmmad jakaria</a></h3>
-                                    <span class="team-desig">Expert Scholar</span>
-                                    <div class="th-social">
-                                        <a target="_blank" href="https://facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                        <a target="_blank" href="https://instagram.com/"><i class="fab fa-instagram"></i></a>
-                                        <a target="_blank" href="https://linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                                    </div>
+                                    <h3 class="box-title"><a href="scholar-details.php">Dr. Maulana Habib-ur-Rehman</a></h3>
+                                    <span class="team-desig">Associate Professor & Islamic Scholar</span>
                                 </div>
-
                             </div>
                         </div>
 
@@ -688,15 +658,9 @@ Team Area
                                     <img src="assets/img/team/team_1_2.jpg" alt="Team">
                                 </div>
                                 <div class="box-content">
-                                    <h3 class="box-title"><a href="scholar-details.php">Mohmmad ali</a></h3>
-                                    <span class="team-desig">Expert Scholar</span>
-                                    <div class="th-social">
-                                        <a target="_blank" href="https://facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                        <a target="_blank" href="https://instagram.com/"><i class="fab fa-instagram"></i></a>
-                                        <a target="_blank" href="https://linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                                    </div>
+                                    <h3 class="box-title"><a href="scholar-details.php">Sheikh Maulana Abdul Rauf Muhammadi</a></h3>
+                                    <span class="team-desig">Religious Scholar & Media Trainer</span>
                                 </div>
-
                             </div>
                         </div>
 
@@ -707,15 +671,9 @@ Team Area
                                     <img src="assets/img/team/team_1_3.jpg" alt="Team">
                                 </div>
                                 <div class="box-content">
-                                    <h3 class="box-title"><a href="scholar-details.php">Mohmmad mohsin</a></h3>
-                                    <span class="team-desig">Expert Scholar</span>
-                                    <div class="th-social">
-                                        <a target="_blank" href="https://facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                        <a target="_blank" href="https://instagram.com/"><i class="fab fa-instagram"></i></a>
-                                        <a target="_blank" href="https://linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                                    </div>
+                                    <h3 class="box-title"><a href="scholar-details.php">Dr. Abu Bakker Muhammad Shereen</a></h3>
+                                    <span class="team-desig">Researcher & Educator in Islamic Studies</span>
                                 </div>
-
                             </div>
                         </div>
 
@@ -726,18 +684,11 @@ Team Area
                                     <img src="assets/img/team/team_1_4.jpg" alt="Team">
                                 </div>
                                 <div class="box-content">
-                                    <h3 class="box-title"><a href="scholar-details.php">moriyam ena</a></h3>
+                                    <h3 class="box-title"><a href="scholar-details.php">Moriyam Ena</a></h3>
                                     <span class="team-desig">Expert Scholar</span>
-                                    <div class="th-social">
-                                        <a target="_blank" href="https://facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                        <a target="_blank" href="https://instagram.com/"><i class="fab fa-instagram"></i></a>
-                                        <a target="_blank" href="https://linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                                    </div>
                                 </div>
-
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>

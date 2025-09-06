@@ -169,7 +169,7 @@
     </div><!--==============================
     Sidemenu
 ============================== -->
-    <div class="sidemenu-wrapper d-none d-lg-block ">
+    <div class="sidemenu-wrapper ">
         <div class="sidemenu-content">
             <button class="closeButton sideMenuCls"><i class="far fa-times"></i></button>
             <div class="widget footer-widget">
@@ -246,7 +246,7 @@
             </div>
         </div>
     </div>
-    <div class="popup-search-box d-none d-lg-block">
+    <div class="popup-search-box">
         <button class="searchClose"><i class="fal fa-times"></i></button>
         <form action="#">
             <input type="text" placeholder="What are you looking for?">
@@ -254,8 +254,10 @@
         </form>
     </div>
     <!--==============================
-    <?php include 'includes/header2.php'; ?>
-
+Header Area
+==============================-->
+<?php include 'includes/header2.php'; ?>
+ <!--==============================
     Breadcumb
 ============================== -->
     <div class="breadcumb-wrapper " data-bg-src="assets/img/bg/breadcumb-bg.jpg" style="background-image: url('assets/img/bg/breadcumb-bg.jpg');">

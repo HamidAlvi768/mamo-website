@@ -1,5 +1,6 @@
-Header Area
-==============================-->
+
+    
+    
     <header class="th-header  header-layout5">
         <div class="header-top">
             <div class="container">
@@ -43,7 +44,7 @@ Header Area
         </div>
         <div class="sticky-wrapper">
             <!-- Main Menu Area -->
-            <div class="menu-area" data-bg-src="assets/img/bg/pattern_bg_2.png">
+            <div class="menu-area" data-bg-src="assets/img/bg/pattern_bg_2.png" style="background-image: url('assets/img/bg/pattern_bg_2.png');">
                 <div class="container">
                     <div class="row align-items-center justify-content-between">
                         <div class="col-auto">
@@ -138,12 +139,12 @@ Header Area
                                                     </li>
                                                 </ul>
                                             </li>
-                                            <li><a href="about.php">About Us</a></li>
                                             <li class="menu-item-has-children">
-                                                <a href="#">Service</a>
+                                                <a href="#">Blog</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="service.php">Services</a></li>
-                                                    <li><a href="service-details.php">Service Details</a></li>
+                                                    <li><a href="blog.php">Blog Grid</a></li>
+                                                    <li><a href="blog-list.php">Blog List</a></li>
+                                                    <li><a href="blog-details.php">Blog Details</a></li>
                                                 </ul>
                                             </li>
                                             <li class="menu-item-has-children">
@@ -153,38 +154,8 @@ Header Area
                                                     <li><a href="courses-details.php">Courses Details</a></li>
                                                 </ul>
                                             </li>
-                                            <li class="menu-item-has-children">
-                                                <a href="#">Pages</a>
-                                                <ul class="sub-menu">
-                                                    <li class="menu-item-has-children">
-                                                        <a href="#">Shop</a>
-                                                        <ul class="sub-menu">
-                                                            <li><a href="shop.php">Islamic Shop</a></li>
-                                                            <li><a href="shop-details.php">Shop Details</a></li>
-                                                            <li><a href="cart.php">Cart Page</a></li>
-                                                            <li><a href="checkout.php">Checkout</a></li>
-                                                            <li><a href="wishlist.php">Wishlist</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a href="blog.php">Blog</a></li>
-                                                    <li><a href="blog-grid.php">Blog Grid</a></li>
-                                                    <li><a href="blog-list.php">Blog List</a></li>
-                                                    <li><a href="blog-details.php">Blog Details</a></li>
-                                                    <li><a href="islamic-scholars.php">Islamic Scholars</a></li>
-                                                    <li><a href="scholar-details.php">Islamic Scholars Details</a></li>
-                                                    <li><a href="charity.php">Charity Campaigns</a></li>
-                                                    <li><a href="charity-details.php">Charity Details</a></li>
-                                                    <li><a href="sermon.php">Sermons Archive</a></li>
-                                                    <li><a href="sermon-details.php">Sermon Details</a></li>
-                                                    <li><a href="prayer-times.php">Prayer Times</a></li>
-                                                    <li><a href="event.php">Events Calendar</a></li>
-                                                    <li><a href="event-details.php">Event Details</a></li>
-                                                    <li><a href="faq.php">FAQ</a></li>
-                                                    <li><a href="gallery.php">Gallery</a></li>
-                                                    <li><a href="error.php">Error Page</a></li>
-                                                </ul>
-                                            </li>
-
+                                            
+                                            <li><a href="about.php">About Us</a></li>
                                             <li><a href="contact.php">Contact Us</a></li>
                                         </ul>
                                     </nav>
@@ -193,8 +164,6 @@ Header Area
                                 <div class="col-auto d-none d-xxl-block">
                                     <div class="header-button">
                                         <button type="button" class="icon-style2 searchBoxToggler"><i class="far fa-search"></i></button>
-                                        <a href="contact.php" class="th-btn style1 th-icon"><span class="btn-text" data-back="Donate Now" data-front="Donate Now"></span> </a>
-                                        <a href="#" class="icon-btn sideMenuToggler d-none d-lg-block"><img src="assets/img/icon/grid.svg" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -204,4 +173,4 @@ Header Area
                 <div class="logo-shape"></div>
             </div>
         </div>
-    </header><!--==============================
+    </header>

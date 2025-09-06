@@ -255,7 +255,10 @@
     </div>
     <!--==============================
 Header Area
+============================== -->
 <?php include 'includes/header2.php'; ?>
+
+<!--==============================
     Breadcumb
 ============================== -->
     <div class="breadcumb-wrapper " data-bg-src="assets/img/bg/breadcumb-bg.jpg" style="background-image: url('assets/img/bg/breadcumb-bg.jpg');">
