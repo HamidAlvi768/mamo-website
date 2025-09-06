@@ -7,7 +7,7 @@
                         <div class="col-auto d-none d-sm-block">
                             <a class="header-link" href="tel:+88001152256"><i class="icon-btn fas fa-phone"></i>(88)
                                 0011-52256</a>
-                            <a class="header-link d-none d-lg-inline-block" href="mailto:infomail123@domain.com"><i class="icon-btn fas fa-envelope"></i>infomail123@domain.com</a>
+                            <a class="header-link d-none d-lg-inline-block" href="mailto:marsoosmedia@gmail.com"><i class="icon-btn fas fa-envelope"></i>marsoosmedia@gmail.com</a>
                             <a class="header-link d-none d-xl-inline-block" href="https://www.google.com/maps"><i class="icon-btn fas fa-location-dot"></i>25 Street, City Road, USA</a>
 
                         </div>
@@ -120,13 +120,6 @@
                                                 </ul>
                                             </li>
                                             <li><a href="about.php">About Us</a></li>
-                                            <li class="menu-item-has-children">
-                                                <a href="#">Service</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="service.php">Services</a></li>
-                                                    <li><a href="service-details.php">Service Details</a></li>
-                                                </ul>
-                                            </li>
                                             <li class="menu-item-has-children">
                                                 <a href="#">Courses</a>
                                                 <ul class="sub-menu">

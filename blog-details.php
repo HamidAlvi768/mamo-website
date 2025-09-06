@@ -184,7 +184,7 @@
                             <span><a class="text-inherit" href="tel:+00123456789012">+00 (123) 456 789 012</a></span>
                         </p>
                         <p class="footer-info"><i class="fa-sharp fa-solid fa-envelope"></i><span>
-                                <a class="text-inherit" href="mailto:infomail123@domain.com">infomail123@domain.com</a></span>
+                                <a class="text-inherit" href="mailto:marsoosmedia@gmail.com">marsoosmedia@gmail.com</a></span>
                         </p>
                         <p class="footer-info"><i class="fas fa-map-marker-alt"></i>West 2nd lane, Inner circular road,
                             New York City</p>
